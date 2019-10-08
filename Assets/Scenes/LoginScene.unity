@@ -182,7 +182,8 @@ MonoBehaviour:
   m_PlayerSpawnMethod: 0
   m_OfflineScene: LoginScene
   m_OnlineScene: OnlineScene
-  m_SpawnPrefabs: []
+  m_SpawnPrefabs:
+  - {fileID: 6936167244147737768, guid: 1573f69b2bc64724d83452b078334ff7, type: 3}
   m_CustomConfig: 0
   m_MaxConnections: 4
   m_ConnectionConfig:
@@ -337,7 +338,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
+  m_BoundingSphereOverride: {x: 0, y: NaN, z: 0, w: -1.8805456e+12}
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
